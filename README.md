@@ -6,4 +6,4 @@ It is just a simple game asking the user to enter a number between 1 and 99, the
 
 ## Knowlegde
 
-Practicing React Native Basics, Debugging, Components, Styling and Layouts. But also, working on responsive and adaptive UI.
+Practicing React Native Basics, Debugging, Components, Styling and Layouts. But also, working on Responsive and Adaptive UI.
