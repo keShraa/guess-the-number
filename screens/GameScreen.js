@@ -174,7 +174,7 @@ const styles = StyleSheet.create({
 		alignItems: "center",
 		flexDirection: "row",
 		justifyContent: "space-around",
-		marginTop: height() > 600 ? 20 : 5,
+		marginTop: height() > 600 ? 20 : 10,
 		width: width() * 0.7,
 		marginTop: 10
 	},
