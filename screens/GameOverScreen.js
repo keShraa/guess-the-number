@@ -15,7 +15,6 @@ const GameOverScreen = props => {
 	);
 
 	useEffect(() => {
-		console.log(height());
 		const updateLayout = () => {
 			setAvailableDeviceHeight(height());
 		};
